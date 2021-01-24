@@ -1,6 +1,7 @@
 {
   "name": "@lbwa/prettier-config",
   "version": "0.1.0",
+  "private": false,
   "description": "An opinionated prettier config",
   "main": "index.json",
   "scripts": {
