@@ -15,6 +15,10 @@
     "prettier",
     "configuration"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
   "author": "Liu Bowen <asyncmode@outlook.com>",
   "license": "MIT",
   "bugs": {
