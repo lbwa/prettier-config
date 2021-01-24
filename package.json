@@ -1,0 +1,23 @@
+{
+  "name": "@lbwa/prettier-config",
+  "version": "0.1.0",
+  "description": "An opinionated prettier config",
+  "main": "index.json",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lbwa/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "configuration"
+  ],
+  "author": "Liu Bowen <asyncmode@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lbwa/prettier-config/issues"
+  },
+  "homepage": "https://github.com/lbwa/prettier-config#readme"
+}
